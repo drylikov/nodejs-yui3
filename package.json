@@ -1,0 +1,13 @@
+{
+  "name" : "yui3",
+  "description" : "YUI 3 Library on NodeJS",
+  "author" : "Denis Rylikov <denis.rylikov@protonmail.com>",
+  "contributors" : [ " <>" ],
+  "engines" : ["node"],
+  "directories" : { "lib" : "lib" },
+  "main" : "./lib/node-yui3",
+  "repositories" : [
+    { "type":"git", 
+		"url":"" }
+  ]
+}
